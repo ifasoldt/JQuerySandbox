@@ -9,7 +9,7 @@ arr = []
 // })
 
 function fetchTimeline(){
-  $.getJSON("http://guarded-bayou-26088.herokuapp.com/tweets", function(data){
+  $.getJSON("https://guarded-bayou-26088.herokuapp.com/tweets", function(data){
     $.each(data.tweets, function(i, tweet){
       tweetBuilder(tweet)
 })
