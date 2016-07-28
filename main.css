@@ -19,3 +19,15 @@ body {
   opacity: 0.8;
   border-radius: 10px;
 }
+
+.user-pic {
+  cursor:pointer;
+}
+
+.modal-header {
+  background-color: #DF6C75;
+}
+
+.modal-body {
+  color:#DAB173;
+}
