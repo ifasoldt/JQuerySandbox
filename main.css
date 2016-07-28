@@ -1,0 +1,21 @@
+*{
+  font-family: Helvetica;
+  font-size: 16px;
+  color: white;
+}
+
+body {
+  background-image: url("http://www.planwallpaper.com/static/images/Light-Wood-Background-Wallpaper.jpg");
+  background-attachment: fixed;
+}
+
+.each_tweet {
+  border: 1px red solid;
+}
+
+.spaced {
+  margin-top: 10px;
+  background-color: #DF6C75;
+  opacity: 0.8;
+  border-radius: 10px;
+}
